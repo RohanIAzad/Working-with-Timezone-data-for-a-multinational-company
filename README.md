@@ -33,5 +33,6 @@ The process stage involves creating new columns, taking information from other c
 3. Gourping by Timezone and taking the mean of the "Sales Revenue"
 
 # 5. Visualization
+![7  Average sales per timezone](https://user-images.githubusercontent.com/43137227/166161811-a8f4c636-7dea-4f81-9d74-7d207353e538.PNG)
 
 
