@@ -8,7 +8,7 @@ In the data, getting all the datetime data in one timezone for this analysis.
 ### 2. prepare
 ### 3. Process
 ### 4. Analyze
-### 5. SHare
+### 5. Share
 ### 6. Act
 
 # 1. Ask
