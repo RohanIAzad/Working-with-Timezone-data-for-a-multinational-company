@@ -5,7 +5,7 @@ In the data, getting all the datetime data in one timezone for this analysis.
 
 ### The data analysis process follows-
 ### 1. Ask
-### 2. prepare
+### 2. Prepare
 ### 3. Process
 ### 4. Analyze
 ### 5. Share
